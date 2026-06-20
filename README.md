@@ -1,1 +1,1 @@
-# Learnhub
+LearnHub is a full-featured online learning platform that enables instructors to create structured courses, learners to progress through content at their own pace, and admins to monitor platform health. The system is built with a Java Spring Boot backend, MongoDB persistence, and Apache Kafka for event-driven certificate generation.  The central product promise: every learner who completes a course receives exactly one digital certificate, delivered automatically and reliably — regardless of system load, retries, or consumer failures.
